@@ -10,11 +10,11 @@ Clone this repository:
 In /flashcards/, use node or nodemon:
   Node:
 ```
-  node app.js
+node app.js
 ```
  Nodemon:
  ```
-  nodemon
+ nodemon
   ```
   
  
